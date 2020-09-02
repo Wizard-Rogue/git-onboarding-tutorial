@@ -1,4 +1,4 @@
-# git-onboarding-tutorial version 1.0.1
+# git-onboarding-tutorial version 1.0.2
 This is the standard git onboarding tutorial for new GDEC Developers
 
 Tutorial Explorer!!!
